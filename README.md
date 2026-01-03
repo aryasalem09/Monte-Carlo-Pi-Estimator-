@@ -4,6 +4,6 @@ this program estimates the value of pi using the monte carlo method, the math be
   - ratio of points inside the circle to the total points converges to pi/4 as the sample size increases
 
 MSYS2 MINGW64 (for windows atleast)
-build: ```bash gfortran monte_carlo_pi.f90 -O2 -o monte_carlo_pi ```
-run  : ```bash ./monte_carlo_pi ```
+build: ``` gfortran monte_carlo_pi.f90 -O2 -o monte_carlo_pi ```
+run  : ``` ./monte_carlo_pi ```
   - enter the number of points and click enter
